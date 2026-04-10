@@ -1,0 +1,29 @@
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  background-color: bisque;
+  color: white;
+  padding: 15px;
+}
+
+.links {
+  list-style-type: none;
+  background-color: bisque;
+  border: 1px solid rgb(255, 217, 170);
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  background-color: bisque;
+  text-align: center;
+  color: white;
+  display: block;
+  padding: 3px;
+  border: 1px solid rgb(255, 217, 170);
+}
